@@ -1,0 +1,52 @@
+Datatype : int
+Variable : func 
+Datatype : int
+Variable : a 
+Datatype : char *
+Variable : s 
+Function Arguments Passed Above
+
+Datatype : char *
+Variable : c 
+Variable : s 
+ASSIGNMENT: =
+Datatype : int
+Variable : b 
+Variable : a 
+ASSIGNMENT: =
+Variable : b 
+Return statement 
+
+Function Defined above
+
+
+Datatype : int
+Variable : main 
+Variable : a 
+Variable : b 
+Operator : < 
+Variable : i 
+Variable : i 
+Value : 1 
+Operator : + 
+While Loop Ends 
+
+Datatype : char *
+Variable : s 
+Value : "Hello" 
+ASSIGNMENT: =
+Variable : func 
+Variable : a 
+Variable : s 
+Function called 
+
+Function calling continues 
+
+Function call ends 
+
+Value : 0 
+Return statement 
+
+Function Defined above
+
+
